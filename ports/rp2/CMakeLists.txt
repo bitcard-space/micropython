@@ -235,6 +235,7 @@ set(PICO_SDK_COMPONENTS
     pico_time
     pico_unique_id
     pico_util
+    pico_rand
     tinyusb_common
     tinyusb_device
 )
